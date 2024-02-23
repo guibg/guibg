@@ -9,7 +9,7 @@ I've been learning code for 7+ years, 3 years of professional experience and 4 y
 *   🌍  I'm based in Salvador, Bahia, Brazil
 *   ✉️  You can contact me at [gguigurgel@gmail.com](mailto:gguigurgel@gmail.com)
 *   🚀  I'm currently working on [a chess game](http://github.com/guibg/ChessUnity)
-*   🧠  I'm learning C#, Java, Game theory and algorithms for chess engines
+*   🧠  I'm learning C#, Java, Springboot, Game theory and algorithms for chess engines
 *   🤝  I'm open to collaborating on interesting projects
 
 ![guibg's GitHub stats](https://github-readme-stats-pi-six-82.vercel.app/api?username=guibg&count_private=true&show_icons=true&theme=chartreuse-dark)
