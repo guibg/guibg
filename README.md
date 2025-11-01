@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I've been learning code for 7+ years, 3+ years of professional experience and 4 years of academic experiece. In the first 5 years used primarily Java and in the last 2 years used C# the most. I like anything that involves backend development and i am constantly learning new things.
+I've been learning code for 8+ years, 4+ years of professional experience and 4 years of academic experiece. In the first 5 years used primarily Java and in the last 2 years used C# the most. I like anything that involves backend development and i am constantly learning new things.
 
 *   🌍  I'm based in Salvador, Bahia, Brazil
 *   ✉️  You can contact me at [gguigurgel@gmail.com](mailto:gguigurgel@gmail.com)
@@ -21,7 +21,7 @@ I've been learning code for 7+ years, 3+ years of professional experience and 4 
     
 ### Socials
   
-  
+<!--
 <p align="left">
 <a href="https://discord.com/users/zabuska" target="_blank" rel="noreferrer">
 <picture>
@@ -29,7 +29,8 @@ I've been learning code for 7+ years, 3+ years of professional experience and 4 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
 </picture>
-    
+/!-->
+
 <!--
 </a>
 <a href="https://www.github.com/guibg" target="_blank" rel="noreferrer">
